@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/InventoryManagement/bin
+/InventoryManagement/.vs/InventoryManagement
+/.vs
+/InventoryManagement/obj/Debug/netcoreapp3.1
+/InventoryManagement/obj/Release/netcoreapp3.1
+/InventoryManagement/Properties/PublishProfiles
+/InventoryManagement/obj
